@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Multiplayer, Mod Manager, Geological Landforms, Biome Transitions and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>3fafbacb-403e-462c-85c8-eea86af92805</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<originalFactionDef>PlayerColony</originalFactionDef>
+		<childhood>AngryStudent88</childhood>
+		<adulthood>Philosopher97</adulthood>
+		<traits>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>2</degree>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(1.000, 0.937, 0.803, 1.000)</skinColor>
+		<melanin>0.336149424</melanin>
+		<bodyType>Male</bodyType>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Wide</headGraphicPath>
+		<hairDef>Messy</hairDef>
+		<hairColor>RGBA(0.310, 0.280, 0.260, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Messy</hairDef>
+		<firstName>Luis</firstName>
+		<nickName>Gomer</nickName>
+		<lastName>Gomez</lastName>
+		<biologicalAge>30</biologicalAge>
+		<chronologicalAge>80</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>8</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>13</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>2</value>
+				<passion>Minor</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<layer>Pants</layer>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+			</li>
+			<li>
+				<layer>BottomClothingLayer</layer>
+				<apparel>Apparel_CollarShirt</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+			</li>
+			<li>
+				<layer>TopClothingLayer</layer>
+				<apparel>Apparel_Parka</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+			</li>
+		</apparel>
+		<ideo IsNull="True" />
+		<abilities />
+		<implants />
+		<injuries />
+		<compFields />
+		<savedComps />
+	</pawn>
+</character>

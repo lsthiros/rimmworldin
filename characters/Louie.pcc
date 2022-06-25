@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Multiplayer, Mod Manager, Geological Landforms, Biome Transitions and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>b0ba0878-c951-440a-a2fc-9db2fae871ef</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<originalFactionDef>PlayerColony</originalFactionDef>
+		<childhood>FarmersSon20</childhood>
+		<adulthood>MedievalDoctor40</adulthood>
+		<traits>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Bisexual</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(0.719, 0.500, 0.278, 1.000)</skinColor>
+		<melanin>0.818346798</melanin>
+		<bodyType>Male</bodyType>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Wide</headGraphicPath>
+		<hairDef>Bravo</hairDef>
+		<hairColor>RGBA(0.200, 0.200, 0.200, 1.000)</hairColor>
+		<beard>Full</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Bravo</hairDef>
+		<firstName>Louie</firstName>
+		<nickName>Louie</nickName>
+		<lastName>Thiros</lastName>
+		<biologicalAge>27</biologicalAge>
+		<chronologicalAge>78</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>9</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>3</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>11</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<layer>Pants</layer>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Synthread</stuff>
+			</li>
+			<li>
+				<layer>BottomClothingLayer</layer>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Synthread</stuff>
+			</li>
+		</apparel>
+		<ideo IsNull="True" />
+		<abilities />
+		<implants />
+		<injuries />
+		<compFields />
+		<savedComps />
+	</pawn>
+</character>

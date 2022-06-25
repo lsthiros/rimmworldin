@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Multiplayer, Mod Manager, Geological Landforms, Biome Transitions and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>6ad05ef4-2a75-48a7-bc97-afbf7a7ee5da</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<originalFactionDef>PlayerColony</originalFactionDef>
+		<gender>Female</gender>
+		<childhood>MidworldGeek18</childhood>
+		<adulthood>Philosopher97</adulthood>
+		<traits>
+			<li>
+				<def>Gay</def>
+			</li>
+			<li>
+				<def>FastLearner</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>2</degree>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(0.995, 0.936, 0.840, 1.000)</skinColor>
+		<melanin>0.224798381</melanin>
+		<bodyType>Thin</bodyType>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy</headGraphicPath>
+		<hairDef>Fringe</hairDef>
+		<hairColor>RGBA(0.300, 0.200, 0.100, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Fringe</hairDef>
+		<firstName>Genevieve</firstName>
+		<nickName>Gen</nickName>
+		<lastName>Duchesneau</lastName>
+		<biologicalAge>34</biologicalAge>
+		<chronologicalAge>145</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>15</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>3</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>10</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>6</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<layer>Pants</layer>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.000, 0.000, 0.000, 1.000)</color>
+			</li>
+			<li>
+				<layer>BottomClothingLayer</layer>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Synthread</stuff>
+			</li>
+			<li>
+				<layer>TopClothingLayer</layer>
+				<apparel>Apparel_Duster</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.493, 0.500, 0.527, 1.000)</color>
+			</li>
+		</apparel>
+		<ideo IsNull="True" />
+		<abilities />
+		<implants />
+		<injuries />
+		<compFields />
+		<savedComps />
+	</pawn>
+</character>

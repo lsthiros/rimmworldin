@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Multiplayer, Mod Manager, Geological Landforms, Biome Transitions and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>ca56e815-3d22-4da5-92c1-a2d2012960d6</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<originalFactionDef>PlayerColony</originalFactionDef>
+		<childhood>FarmHand2</childhood>
+		<adulthood>Politician57</adulthood>
+		<traits>
+			<li>
+				<def>Immunity</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(0.980, 0.877, 0.668, 1.000)</skinColor>
+		<melanin>0.547379017</melanin>
+		<bodyType>Hulk</bodyType>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal</headGraphicPath>
+		<hairDef>Bravo</hairDef>
+		<hairColor>RGBA(0.757, 0.573, 0.333, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Bravo</hairDef>
+		<firstName>Gerik</firstName>
+		<nickName>Gerik</nickName>
+		<lastName>Kubiak</lastName>
+		<biologicalAge>27</biologicalAge>
+		<chronologicalAge>112</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>3</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>13</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>3</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>10</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>10</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>7</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<layer>Pants</layer>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+			</li>
+			<li>
+				<layer>BottomClothingLayer</layer>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+			</li>
+		</apparel>
+		<ideo IsNull="True" />
+		<abilities />
+		<implants />
+		<injuries />
+		<compFields />
+		<savedComps />
+	</pawn>
+</character>
